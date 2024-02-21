@@ -1,0 +1,10 @@
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/CMakeFiles/Main.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/CMakeFiles/Tests.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/Users/Dad/Documents/GitHub/DSAProjectOne/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
