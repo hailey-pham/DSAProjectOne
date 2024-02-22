@@ -5,8 +5,6 @@
 #ifndef PROJECT1_AVLTREE_H
 #define PROJECT1_AVLTREE_H
 
-#endif //PROJECT1_AVLTREE_H
-
 #include <iostream>
 #include <sstream>
 using namespace std;
@@ -443,3 +441,5 @@ private:
 
 
 };
+
+#endif //PROJECT1_AVLTREE_H
